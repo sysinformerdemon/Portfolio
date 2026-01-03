@@ -1,0 +1,15 @@
+HTML 17 line user 
+HTML 20 line Telegram 
+HTML 23 line discord
+HTML 27 line description
+HTML 32 steam id 
+HTML 36 namemc
+HTML 49 line song name 
+HTML 76 line tap anywhere to continue
+CSS  container=line 25 box-shadow= line 32
+CSS  button= line 49
+CSS  music-player= line 67
+music=music2.mp3 add your file and name it like this
+avatar=avatar.jpg add your file and name it like this
+banner=banner.jpg add your file and name it like this
+bg=bg.png add your file and name it like this
